@@ -131,7 +131,7 @@ body {
     /* Allow title to visually break out of the max-width container */
     width: 90vw !important;
     max-width: 90vw !important;
-    margin-left: calc(50% - 45vw) !important; /* center 90vw inside viewport */
+    margin-left: calc(50% - 45vw) !important; /* center 80vw inside viewport */
     text-align: center;
 }
 
